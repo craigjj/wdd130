@@ -1,0 +1,12 @@
+
+        body {
+            background: rgb(186, 149, 223);
+            font-family: Verdana, Arial, sans-serif;
+        }
+        h1 {
+            text-align: center;
+        } 
+        h2 {
+            border: black;
+            text-decoration: rgb(240, 12, 12);
+        }
